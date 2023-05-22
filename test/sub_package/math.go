@@ -1,4 +1,4 @@
-package sub
+package sub_package
 
 func Sum(args ...int) int {
 	sum := 0

@@ -1,4 +1,3 @@
-// 模块名可以和git url地址不同
-module github.com/OneHundred86/golang/test/sub
+module github.com/OneHundred86/golang/test/sub_package
 
 go 1.19
