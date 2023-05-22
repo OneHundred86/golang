@@ -1,6 +1,6 @@
 ##### 1.引入代码包
 ```shell
-go get github.com/OneHundred86/golang/test/bb
+go get -u github.com/OneHundred86/golang/test/bb
 ```
 
 ##### 2.使用代码包
